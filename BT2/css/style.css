@@ -1,0 +1,8 @@
+h1{
+	font-size: 50px;
+}
+.box{
+	border: 2px;
+	color: red;
+	border-top-width: 5px;
+}

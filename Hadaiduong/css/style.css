@@ -1,0 +1,32 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: #E5E5E5;
+	margin:0;
+	padding: 0;
+}
+h1{
+	margin:30px 0 10px 0;
+	color: #404040;
+	font-size: 24px;
+}
+img{
+	max-width: 100%;
+}
+#main-menu a{
+	font-size: 20px;
+	color: red;
+	text-decoration: none;
+}
+#main-menu a:hover{
+	color: black;
+}
+#main-menu a.active{
+	color: blue;
+	font-weight: bold;
+}
+.wrap{
+	max-width: 1000px;
+	margin: auto;
+}

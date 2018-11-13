@@ -1,0 +1,67 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+a{
+	font-size: 20px;
+}
+a:active{
+	color: red;
+}
+a:hover{
+	color: grey;
+}
+img {
+	width: 100%;
+}
+.box{
+	padding: 20px;
+	margin: 15px; 
+	float: left;
+	width: 30%;
+	border: 1px solid red;
+	border-top-width: 5px
+}
+.anh1{
+	color: red;
+	border-color: red;
+}
+
+.anh2{
+	color: blue;
+	border-color: blue;
+}
+.anh3{
+	color: grey;
+	border-color: grey;
+}
+.anh4{
+	color: tan;
+	border-color: tan;
+}
+.anh5{
+	color: brown;
+	border-color: brown;
+}
+.anh6{
+	color: gold;
+	border-color: gold;
+}
+.anh7{
+	color: purple;
+	border-color: purple;
+}
+.anh8{
+	color: cyan;
+	border-color: cyan;
+}
+.anh9{
+	color: green;
+	border-color: green;
+}
+.wrap{
+	color: red;
+	max-width: 1000px;
+	margin: auto;
+}

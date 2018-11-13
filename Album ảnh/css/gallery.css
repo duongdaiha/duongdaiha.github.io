@@ -1,0 +1,71 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+a{
+	font-size: 20px;
+}
+a:active{
+	color: red;
+}
+a:hover{
+	color: grey;
+}
+img {
+	width: 100%;
+}
+.box{
+	padding: 20px;
+	margin: 15px; 
+	float: left;
+	width: 30%;
+	border: 1px solid red;
+	border-top-width: 5px
+}
+.giay1{
+	color: red;
+	border-color: red;
+}
+
+.giay2{
+	color: blue;
+	border-color: blue;
+}
+.giay3{
+	color: grey;
+	border-color: grey;
+}
+.giay4{
+	color: tan;
+	border-color: tan;
+}
+.giay5{
+	color: brown;
+	border-color: brown;
+}
+.giay6{
+	color: gold;
+	border-color: gold;
+}
+.giay7{
+	color: purple;
+	border-color: purple;
+}
+.giay8{
+	color: cyan;
+	border-color: cyan;
+}
+.giay9{
+	color: green;
+	border-color: green;
+}
+.giay10{
+	color: green;
+	border-color: green;
+}
+.wrap{
+	color: red;
+	max-width: 1000px;
+	margin: auto;
+}
