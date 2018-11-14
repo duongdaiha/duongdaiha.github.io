@@ -1,0 +1,17 @@
+.box{
+	padding: 15px;
+	float: left;
+	width: 33.333%;
+	border: 1px solid red;
+	border-top-width: 5px;
+
+}
+.info{
+	border-color: red;
+}
+.contact{
+	border-color: blue;
+}
+.company{
+	border-color: green;
+}
