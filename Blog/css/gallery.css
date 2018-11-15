@@ -27,7 +27,6 @@ img {
 	color: red;
 	border-color: red;
 }
-
 .anh2{
 	color: blue;
 	border-color: blue;
@@ -64,4 +63,7 @@ img {
 	color: red;
 	max-width: 1000px;
 	margin: auto;
+}
+div:hover{
+	opacity: 1;
 }
