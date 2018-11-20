@@ -1,0 +1,36 @@
+img{
+	max-width: 300px;
+}
+@keyframes title{
+	0%   {background-color: #EF7126; color: #F9E559;}
+    25%  {background-color: #6F3662; color: #FFFFFF;}
+    50%  {background-color: #9F6164; color: #F8DEBD;}
+    75%  {background-color: #44B3C2; color: #FFFFFF;}
+    100% {background-color: #218C8D; color: #F9E559;}
+}
+h1{
+	text-align: center;
+	margin:50px 0 10px 0;
+	color: red;
+	font-size: 50px;
+	animation: title 5s ease infinite;
+}
+img {
+	border-radius: 50%;
+	padding: 10px;
+	display: block;
+	margin: auto;
+}
+a{
+	font-size: 20px;
+}
+a{
+	color: red;
+}
+a:hover {
+	color: blue;
+}
+p{
+	color: grey;
+	font-size: 20px;
+}
